@@ -14,3 +14,16 @@
 </div>
 
 ###
+<hr>
+#zoom
+<div align="center">
+  <img height="200" src="https://github.com/LarPeterson/HomePageBootstrap/blob/main/parte1.png?raw=true"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://github.com/LarPeterson/HomePageBootstrap/blob/main/parte%202.png?raw=true"  />
+</div>
+
+###
